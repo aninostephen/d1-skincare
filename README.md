@@ -2,6 +2,9 @@
 
 A modern, skincare product website built with React, TypeScript, and Tailwind CSS. This project showcases a complete homepage with product sections, testimonials, video cards, and more.
 
+## Live Demo
+https://d1-skincare.vercel.app/
+
 ## 🚀 Quick Start
 
 ### Prerequisites

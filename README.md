@@ -1,6 +1,6 @@
 # D1 Skincare Website
 
-A modern, responsive skincare product website built with React, TypeScript, and Tailwind CSS. This project showcases a complete homepage with product sections, testimonials, video cards, and more.
+A modern, skincare product website built with React, TypeScript, and Tailwind CSS. This project showcases a complete homepage with product sections, testimonials, video cards, and more.
 
 ## 🚀 Quick Start
 
@@ -61,7 +61,6 @@ test/
 
 ## 🎨 Features
 
-- **Responsive Design** - Optimized for all device sizes
 - **TypeScript** - Full type safety and better development experience
 - **Tailwind CSS** - Utility-first CSS framework for styling
 - **Reusable Components** - Modular architecture with reusable UI components
@@ -115,14 +114,6 @@ After starting the development server, you can:
 3. **Add new images** to the `public/img/` folder
 4. **Modify styling** using Tailwind CSS classes
 5. **Update content** by editing the dummy data files
-
-## 📱 Responsive Breakpoints
-
-The website is optimized for:
-- **Mobile** - `sm:` (640px and up)
-- **Tablet** - `md:` (768px and up)
-- **Desktop** - `lg:` (1024px and up)
-- **Large Desktop** - `xl:` (1280px and up)
 
 ## 🔧 Customization
 
